@@ -1,4 +1,8 @@
-# MCP Tools Server
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/68a8684a-6627-4d3e-9802-c175f18a9432" />
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/aaec476c-5412-41f5-a6cb-6e86ec30c2bd" />
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/135fa031-205f-4b65-b0db-bcdf67172567" /># MCP Tools Server
 
 A simple **MCP (Model Context Protocol)** server built with Python and **FastMCP**.
 
